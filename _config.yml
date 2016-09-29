@@ -1,0 +1,50 @@
+# Site settings
+title: Joel Quiles - Web Developer
+description: "A blog about someone obsessed with technology..."
+baseurl: "" # the subpath of your site
+url: "http://localhost:4000"
+
+# User settings
+username: quilesbaker
+user_title: Joel Quiles - Software Engineer
+email: quilesbaker@gmail.com
+twitter_username: quilesbaker
+github_username:  quilesbaker
+gplus_username:  quilesbaker
+disqus_username: quilesbaker
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: asciilang
+    url: https://github.com/victorvoid/asciilang
+  - name: vim-frontend
+    url: https://github.com/victorvoid/vim-frontend
+  - name: generator-capybara
+    url: https://github.com/victorvoid/generator-capybara
+# exclude node related stuff
+exclude: ['package.json', 'src', 'node_modules']
