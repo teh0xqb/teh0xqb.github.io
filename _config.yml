@@ -2,7 +2,7 @@
 title: Joel Quiles - Web Developer
 description: "A blog about someone obsessed with technology..."
 baseurl: "" # the subpath of your site
-url: "http://localhost:4000"
+url: "http://quilesbaker.github.io"
 
 # User settings
 username: quilesbaker
@@ -40,11 +40,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara
+  - name: Restaurant Inspections API (Code For Miami)
+    url: https://github.com/Code-for-Miami/restaurant-inspections-api
+  - name: Mei - Codename for a quick clojure game ("in progress")
+    url: https://github.com/quilesbaker/mei-game-clj
+  - name: wine-finder - desktop app for finding wine!
+    url: https://github.com/quilesbaker/wine-finder
 # exclude node related stuff
 exclude: ['package.json', 'src', 'node_modules']
