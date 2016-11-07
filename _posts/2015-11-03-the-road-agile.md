@@ -45,7 +45,7 @@ The product owner might want to deliver them in his own format. The final draft 
 
 As an example,
 
-As a *[customer|client|vendor|power]* user, I can scroll down the search result list and, as I approach the end of the list, new items will be added.
+As a *\[customer\|client\|vendor\|power\]* user, I can scroll down the search result list and, as I approach the end of the list, new items will be added.
 
 [Optional, why:] because we want lazy loading — we don’t have to wait for or look all the results at once. Or… for technical reasons: loading all results at once takes more time and processing power.
 
@@ -149,16 +149,16 @@ I have yet to do this myself, in order to explain it in detail. Agile patterns a
 ---
 
 #### Wikipedia article: Agile Software Development
-https://en.wikipedia.org/wiki/Agile_software_development
+<https://en.wikipedia.org/wiki/Agile_software_development>
 
 #### All About Agile
-http://allaboutagile.com
+<http://allaboutagile.com>
 
 #### Mountain Goat Software — Agile Summaries and FAQs
-https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum
+<https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum>
 
 #### The Art and Science of Ruby — Three things you need to know to produce an accurate estimate
-http://theartandscienceofruby.com/2015/09/08/three-things-you-need-to-know-to-produce-an-accurate-estimate/
+<http://theartandscienceofruby.com/2015/09/08/three-things-you-need-to-know-to-produce-an-accurate-estimate/>
 
 #### Wikipedia: The Project Management Triangle
-https://en.wikipedia.org/wiki/Project_management_triangle
+<https://en.wikipedia.org/wiki/Project_management_triangle>
