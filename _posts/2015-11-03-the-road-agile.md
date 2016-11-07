@@ -148,17 +148,12 @@ I have yet to do this myself, in order to explain it in detail. Agile patterns a
 
 ---
 
-#### Wikipedia article: Agile Software Development
-<https://en.wikipedia.org/wiki/Agile_software_development>
+[Wikipedia article: Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
 
-#### All About Agile
-<http://allaboutagile.com>
+[All About Agile](http://allaboutagile.com)
 
-#### Mountain Goat Software — Agile Summaries and FAQs
-<https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum>
+[Mountain Goat Software — Agile Summaries and FAQs](https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum)
 
-#### The Art and Science of Ruby — Three things you need to know to produce an accurate estimate
-<http://theartandscienceofruby.com/2015/09/08/three-things-you-need-to-know-to-produce-an-accurate-estimate/>
+[The Art and Science of Ruby — Three things you need to know to produce an accurate estimate](http://theartandscienceofruby.com/2015/09/08/three-things-you-need-to-know-to-produce-an-accurate-estimate/)
 
-#### Wikipedia: The Project Management Triangle
-<https://en.wikipedia.org/wiki/Project_management_triangle>
+[Wikipedia: The Project Management Triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
