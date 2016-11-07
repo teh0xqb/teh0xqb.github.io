@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Road To Agile"
+title:  "The Road To Agile --  Part 1"
 image: 'https://cdn-images-1.medium.com/max/2000/1*PaE1yvKD9cfmhQckhqpnOA.jpeg'
 date:   2015-11-03 00:06:31
 tags:
@@ -11,10 +11,8 @@ categories:
 serie: learn
 ---
 
-The Road to Agile — Part 1
-===
 
-##### Practices for Project Management during Software Development.
+#### Practices for Project Management during Software Development.
 
 Some of you may have read my previous post — Halloween Horror stories on software development. They keep us up at night. I have been in a lot of, um, interesting work environments, where I don’t have a lot of control on the plan or strategy that the company has.
 
@@ -47,7 +45,7 @@ The product owner might want to deliver them in his own format. The final draft 
 
 As an example,
 
-> As a *[customer|client|vendor|power]* user, I can scroll down the search result list and, as I approach the end of the list, new items will be added.
+As a *[customer|client|vendor|power]* user, I can scroll down the search result list and, as I approach the end of the list, new items will be added.
 
 [Optional, why:] because we want lazy loading — we don’t have to wait for or look all the results at once. Or… for technical reasons: loading all results at once takes more time and processing power.
 
@@ -150,17 +148,17 @@ I have yet to do this myself, in order to explain it in detail. Agile patterns a
 
 ---
 
-##### Wikipedia article: Agile Software Development
+#### Wikipedia article: Agile Software Development
 https://en.wikipedia.org/wiki/Agile_software_development
 
-##### All About Agile
+#### All About Agile
 http://allaboutagile.com
 
-##### Mountain Goat Software — Agile Summaries and FAQs
+#### Mountain Goat Software — Agile Summaries and FAQs
 https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum
 
-##### The Art and Science of Ruby — Three things you need to know to produce an accurate estimate
+#### The Art and Science of Ruby — Three things you need to know to produce an accurate estimate
 http://theartandscienceofruby.com/2015/09/08/three-things-you-need-to-know-to-produce-an-accurate-estimate/
 
-##### Wikipedia: The Project Management Triangle
+#### Wikipedia: The Project Management Triangle
 https://en.wikipedia.org/wiki/Project_management_triangle
