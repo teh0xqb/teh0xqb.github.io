@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "The Road To Agile"
+image: 'https://cdn-images-1.medium.com/max/2000/1*PaE1yvKD9cfmhQckhqpnOA.jpeg'
+date:   2015-11-03 00:06:31
+tags:
+- agile
+description: ''
+categories:
+- Software Development
+serie: learn
+---
+
 The Road to Agile — Part 1
 ===
 
