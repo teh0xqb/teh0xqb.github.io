@@ -53,7 +53,7 @@ The why is not always necessary. It helps the development team discuss the reaso
 
 Now, insert these stories into a backlog — a long list or queue, where the items on top are of most priority. The items on top should be explained in concrete detail so that a member of the development team can work with it.
 
-## Agree with the team on the definition of ‘Done’
+## Agree with the definition of ‘Done’
 
 You want to estimate tasks and add deliverables to your user stories, but based on what? Task code completion? Feature deployed to production? Your team needs to be able to establish to what extent you are completing a task. This helps confirm the benefits of the process, while ensuring predictability for task completion.
 
