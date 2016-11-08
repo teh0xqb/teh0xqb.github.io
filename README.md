@@ -1,6 +1,6 @@
-# WHOAMI
+# whoami
 
-I'm Joel. Software Dev.. but I'm not going to go about writing a whole app for my blog. This one's great. (License below).
+<http://quilesbaker.github.io>
 
 # Space Jekyll
 
