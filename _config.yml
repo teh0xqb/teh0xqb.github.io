@@ -1,17 +1,17 @@
 # Site settings
-title: Joel Quiles - Web Developer
-description: "A blog about someone obsessed with technology..."
+title: Joel - Building Software
+description: "hmm..."
 baseurl: "" # the subpath of your site
-url: "http://quilesbaker.github.io"
+url: "http://teh0xqb.github.io"
 
 # User settings
-username: quilesbaker
-user_title: Joel Quiles - Software Engineer
+username: teh0xqb
+user_title: Joel - Building Software
 email: quilesbaker@gmail.com
-twitter_username: quilesbaker
-github_username:  quilesbaker
-gplus_username:  quilesbaker
-disqus_username: quilesbaker
+twitter_username: teh0xqb
+github_username:  teh0xqb
+gplus_username:  teh0xqb
+disqus_username: teh0xqb
 
 # Build settings
 markdown: kramdown
@@ -40,11 +40,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: Restaurant Inspections API (Code For Miami)
+  - name: Restaurant Inspections API
     url: https://github.com/Code-for-Miami/restaurant-inspections-api
-  - name: Mei - Codename for a quick clojure game ("in progress")
-    url: https://github.com/quilesbaker/mei-game-clj
-  - name: wine-finder - desktop app for finding wine!
-    url: https://github.com/quilesbaker/wine-finder
+  - name: Mei - Codename for clojure game
+    url: https://github.com/teh0xqb/mei-game-clj
+  - name: wine-finder
+    url: https://github.com/teh0xqb/wine-finder
 # exclude node related stuff
 exclude: ['package.json', 'src', 'node_modules']

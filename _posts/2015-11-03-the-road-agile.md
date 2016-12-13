@@ -14,7 +14,7 @@ serie: learn
 
 #### Practices for Project Management during Software Development.
 
-Some of you may have read my previous post — [Halloween Horror stories on software development](https://quilesbaker.github.io/software-horror-stories/). They keep us up at night. I have been in a lot of, um, interesting work environments, where I don’t have a lot of control on the plan or strategy that the company has.
+Some of you may have read my previous post — [Halloween Horror stories on software development](https://teh0xqb.github.io/software-horror-stories/). They keep us up at night. I have been in a lot of, um, interesting work environments, where I don’t have a lot of control on the plan or strategy that the company has.
 
 I have also heard a lot about the theory behind Agile Software practices. The agile buzzword has a special place in my heart. I have only seen glimpses of it during my career. Management usually misuses it. Developers usually know that it’s good for their health. The reality is that I’ve never seen the whole thing in action.
 
