@@ -1,7 +1,7 @@
 {
   "name": "template",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
