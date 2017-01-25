@@ -39,7 +39,7 @@ I also told her about a song that all this “yolo come here and visit me” sit
 
 He turns out to be OUR favorite artist! I don’t know why this is so relevant. I end up playing his songs ([Mad Love](https://www.youtube.com/watch?v=UDf8YsiAulQ)) and here I am. Because of his lyrics I am madly in love and dancing and falling over, chest first. I have been trying really hard to ignore it... but each time I pronounce her name in my mind, I fail to understand how bewitched I am. Come on! I am drawing happy faces with syrup, on the pancakes.
 
-And as I slowly sip my coffee, all I can think is how excitig life is.
+And as I slowly sip my coffee, all I can think is how exciting life is.
 
 Because this coffee tastes like luck. Because this breakfast tastes like life. And maannn, do these
 pancakes taste like glory.
