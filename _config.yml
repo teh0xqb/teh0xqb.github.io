@@ -40,8 +40,8 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: Restaurant Inspections API
-    url: https://github.com/Code-for-Miami/restaurant-inspections-api
+  - name: Florida Business Inspections API
+    url: https://github.com/Code-for-Miami/fbi-api
   - name: Mei - Codename for clojure game
     url: https://github.com/teh0xqb/mei-game-clj
   - name: wine-finder
