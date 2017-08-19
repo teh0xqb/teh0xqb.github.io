@@ -6,8 +6,8 @@
             template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
             searchResults   : '.search-results',
             searchResultsTitle   : '<h4>Search Results:</h4>',
-            limit           : '5',
-            noResults       : '<p>Oh snap!<br/><small>Nothing found! :(</small></p>'
+            limit           : '7',
+            noResults       : '<p><small>Nothing found.</small></p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');

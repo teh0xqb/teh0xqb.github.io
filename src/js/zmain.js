@@ -86,6 +86,7 @@
     bs.searchform.toggleClass('active');
     bs.searchform.find('input').focus();
     bs.canvas.toggleClass('search-overlay');
+    $('.search-field').val('');
     $('.search-field').simpleJekyllSearch();
   });
 
@@ -94,9 +95,4 @@
     bs.searchform.toggleClass('active');
     bs.canvas.removeClass('search-overlay');
   });
-
-  // Scroll
-  smoothScroll.init({
-    updateURL: false
-  })
 })( Zepto, window );
