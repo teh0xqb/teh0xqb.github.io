@@ -10,6 +10,14 @@ $bg
 		align(both)
 		text-align center
 
+$bg2
+	background #00
+	height 100%
+	.content
+		width 95%
+		align(both)
+		text-align center
+
 // Header home
 .header-site
 	@extends $bg
@@ -62,7 +70,7 @@ $bg
 
 // Header Post
 .header-post
-	@extends $bg
+	@extends $bg2
 	height 62px
 	+above(rem(1450px))
 		background transparent
@@ -73,7 +81,7 @@ $bg
 		margin 0
 		padding-top 23px
 		text-align center
-		color #00
+		color #FF
 
 //Header Page
 .page-header
