@@ -19,9 +19,9 @@ on going to the Daytona 500 over the weekend. We started a house party, with me 
 making since that’s my thing now. We got so drunk… what a fun night. We even did drunk yoga (patent
 pending).
 
-At the end of the night we ended up making out. She is in some kind of complicated relationship with a guy, which would be okay if I didn’t know the guy. Which would also be okay if it wasn’t any relevant whatsoever. This guy turns out to be my housemate’s best friend.
+She is in some kind of complicated relationship with a guy, which would be okay if I didn’t know the guy. Which would also be okay if it wasn’t any relevant whatsoever. This guy turns out to be my housemate’s best friend.
 
-So the rest of the weekend I behaved myself, taking advantage of every chance I got to lose myself into her eyes. I made her laugh and flirted from time to time, only to then realize that my friend was there checking on me. At the time I tried very hard to behave myself, even sabotaging myself, so I wouldn’t hit on her. My “dark” player days were supposed to be buried, deep in the past.
+So the rest of the weekend I behaved myself, taking advantage of every chance I got to lose myself into her eyes. I made her laugh and flirted from time to time, only to then realize that my friend was there checking on me. At the time I tried very hard to behave myself....
 
 She went back to her town after the weekend was over- just four beautiful hours away from here. I said to myself- “Well, I did it. I'm under control!” (when not influenced by alcohol... -_-’ ). Then she added me on facebook. Then we started chatting most days. I am just trying to play innocent, but I know that her scent stayed on my skin and as much as I try the flavor of her lips won’t go away (I want more!). Then she told me to visit her and stay over at her parent’s house, where she lives.
 
