@@ -6,6 +6,21 @@
 
 A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
 
+## Installing & Starting Dev Server
+
+For jekyll dependency installation:
+https://jekyllrb.com/docs/installation/ubuntu/
+
+Use node version < 12, or gulp version < 3.
+
+Recommend install `nvm` for multiple node version management. This project will not be updated as much so using an older version works for now.
+
+Then, run
+```
+npm start
+```
+on project folder.
+
 ## License
 The MIT License (MIT)
 

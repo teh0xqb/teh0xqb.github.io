@@ -4,7 +4,9 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "gulp",
+    "prestart": "npm install"
   },
   "keywords": [
     "frontend",
