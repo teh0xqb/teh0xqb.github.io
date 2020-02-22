@@ -15,7 +15,7 @@ serie: life
 > There is probably no order to these thoughts, as it was an exploration in the midst of hyper-nervousness and jumpy limbs hitting keystrokes at the speed of light. I haven't taken the time to re-read it or make sense of it yet.
 > Maybe someday I will. In the meantime.. enjoy!
 
-<img src="/assets/img/yin-yang.png" width=50 />
+![](/assets/img/yin-yang.png)
 
 ## Yin Yang. No, thank you.
 
