@@ -1,5 +1,6 @@
 (function($) {
     $.fn.simpleJekyllSearch = function(options) {
+
         var settings = $.extend({
             jsonFile        : '/search.json',
             jsonFormat      : 'title,category,desc,url,date,shortdate',
@@ -38,9 +39,9 @@
 
         function registerEvent(){
             origThis.keyup(function(e){
-                if($(this).val().length){
+                if ($(this).val().length) {
                     writeMatches( performSearch($(this).val()) );
-                }else{
+                } else {
                     clearSearchResults();
                 }
             });
@@ -75,15 +76,13 @@
                         searchResults.append($(output));
                     }
                 });
-            }else{
+            } else{
                 searchResults.append( settings.noResults );
             }
-
-
         }
 
         function clearSearchResults(){
             searchResults.children().remove();
         }
-    }
+    };
 }(Zepto));
