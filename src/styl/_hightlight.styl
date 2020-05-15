@@ -11,24 +11,23 @@ pre
     code
         center(rem(800))
         padding 0 rem(20px)
-        +below(cut)
-            overflow-x: scroll;
     span
         line-height 1.5rem
         font-family 'Monaco','Consolas','Menlo',monospace
 
 .highlight {
-    white-space: pre; 
+    white-space: pre-wrap;
     overflow: auto; 
-    word-wrap: normal; /* horizontal scrolling */
+    // word-wrap: normal; /* horizontal scrolling */
     -moz-border-radius: 3px; 
     -webkit-border-radius: 3px; 
     border-radius: 0px;
     padding: 20px; 
     background-color blackBase;
     color: #C1C2C3;
-    margin 0;
-    margin-bottom: 30px;
+    margin auto;
+    max-width: 50rem;
+    // margin-bottom: 30px;
 }
 .highlight .hll { background-color: #ffc; }
 .highlight .gd { color: #2e3436; background-color: #0e1416; }
@@ -50,3 +49,7 @@ pre
 .highlight .il { color: #8ae234; }
 .highlight .o { color: #989DAA; }
 .highlight .nv,.highlight .vc,.highlight .vg,.highlight .vi { color: #fff; }
+
+.highlighter-rouge {
+  margin-bottom: 1.5rem;
+}
