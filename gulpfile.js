@@ -15,7 +15,7 @@ var messages = {
 	jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
-var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
+var jekyllCommand = 'jekyll';
 
 /**
  * Build the Jekyll Site
@@ -56,7 +56,7 @@ gulp.task('stylus', function(){
 		}))
 		.pipe(gulp.dest('_site/assets/css/'))
 		.pipe(browserSync.reload({stream:true}))
-		.pipe(gulp.dest('assets/css'))
+		.pipe(gulp.dest('assets/css/'))
 });
 
 /**
