@@ -2,7 +2,7 @@
 layout: post
 title:  "Portfolio Work"
 image: 'coming soon'
-date:   2015-05-22 00:16:00
+date:   2020-05-22 00:16:00
 tags:
 - software
 description: 'See for yourself!'
@@ -149,6 +149,8 @@ for submites or color hints. Out of scope for this demo.
 The theme for colors and gradient were just taken from a the company theme that
 asked me to build this demo.
 
+Run standalone [here](https://teh0xqb.com:446){:target="_blank"}. Source [here](https://github.com/teh0xqb/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
+
 ---
 
 ### Meet the WindRose
@@ -192,4 +194,6 @@ xml pseudo-dsl with javascript logic and interpolate within the template. These 
 are not fair in this context, I know. This post won't deep dive on how these
 statements are true, but there are some good blogs out there that already explain
 why the Clojure/Script combo (and Reagent!) are incredible technologies. Google it!
+
+Run standalone [here](https://teh0xqb.com/trials). Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
 
