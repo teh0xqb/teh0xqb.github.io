@@ -29,6 +29,10 @@ I have also included relevant previous work that may have landed me a job.
 All of these applications are embedded with iframes, except for the windrose,
 which is a screenshot. Try them out!
 
+Ps. I tried these out in both recent versions of Chrome and Firefox, both on Linux
+and Windows. Some might even work on the MS Edge browser.
+I have not tried these on OSX or safari.
+
 ### Meet The Pokedex
 
 I was given barebones wireframes and asked to develop a pokedex using <https://pokeapi.co/>{:target="_blank"}.
