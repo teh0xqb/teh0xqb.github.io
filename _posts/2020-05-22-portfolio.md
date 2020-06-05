@@ -31,7 +31,7 @@ which is a screenshot. Try them out!
 
 ### Meet The Pokedex
 
-I was given barebones wireframes and asked to develop a pokedex using <https://pokeapi.co/>.
+I was given barebones wireframes and asked to develop a pokedex using <https://pokeapi.co/>{:target="_blank"}.
 It was required to use `VueJs`. It was my first time using this library/framework, but
 that wont stop me on delivering and organized and responsive browser app!
 Link to standalone [Pokedex here](https://teh0xqb.com:444){:target="_blank"}.
@@ -132,12 +132,18 @@ This is a really simple react-backed registration form. It does what it needs to
 It contains controlled input elements, validates on submit using the HTML Contraint API,
 and either shows the errors or navigates to a success page. I did not include labels
 nor fancy animations to move placeholders as form input labels, but with more time
-that was certainly possible. You'll notice that this time around I decided to
-provide positive reinforcement (longlive the field of psychology) on pre-submit
-form field validation. That is, forms are not red if they are bad, but green if they
-are A-Ok. Of course, on a production project the user should be able to receive information
+that was certainly possible.
+
+You'll notice that this time around I decided to provide positive reinforcement 
+(long live the field of psychology) on pre-submit form field validation. That is,
+forms are not red if they are bad, but green if they are A-Ok.
+
+Of course, on a production project the user should be able to receive information
 on what the requirement is in order to fill the field correctly, without having to wait
 for submites or color hints. Out of scope for this demo.
+
+The theme for colors and gradient were just taken from a the company theme that
+asked me to build this demo.
 
 ---
 
