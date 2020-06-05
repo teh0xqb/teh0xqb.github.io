@@ -22,7 +22,7 @@ roles weren't an exact fit with my skills and next steps, I ended up building th
 demos to showcase what I can accomplish with JavaScript and CSS on the browser.
 
 Here's the result of my exercise of hosting and collecting these demo applications.
-Actually, I have included some previous ones that may have landed me a job.
+I have also included relevant previous work that may have landed me a job.
 
 ## Demos
 
@@ -31,14 +31,16 @@ which is a screenshot. Try them out!
 
 ### Meet The Pokedex
 
-I was given barebones mockups and asked to develop a pokedex using <https://pokeapi.co/>.
-It was required to use VueJs. It was my first time using this library/framework, but
+I was given barebones wireframes and asked to develop a pokedex using <https://pokeapi.co/>.
+It was required to use `VueJs`. It was my first time using this library/framework, but
 that wont stop me on delivering and organized and responsive browser app!
-Link to standalone [Pokedex here](https://teh0xqb.com:444).
+Link to standalone [Pokedex here](https://teh0xqb.com:444){:target="_blank"}.
 
 <div class="demo-container">
     <iframe class="demo" src="https://teh0xqb.com:444" title="Pokedex" width="100%"></iframe> 
 </div>
+
+<br />
 
 #### Some notes on what I was going for
 
@@ -48,15 +50,18 @@ the promise just in case the caller wishes to handle it manually
 (say local animation, fallbacks, error handling).
 
 Using this app-level "flag" (loading), the pokedex has an interesting app-level
-loading animation. It is a little bit hidden below the pokedex header. You may notice it
-when you first click on a pokemon type. That's the point: on slow connections,
-you'll see the loading animation. On faster internet connections, you don't really need to notice it (nor have previous
+loading animation. It is pretty inconspicuous- serves as the border for the pokedex header.
+Users should mostly notice it when exploring a pokemon type the application has not retrieved before.
+That's the point: on slow connections, users should  see the loading animation.
+On faster internet connections, you don't really need to notice it (nor have previous
 content immediately replaced or yanky flashes of animations from requests that took a small amount of time).
 
 This application is fully responsive- try it out under several browser sizes. I used
 flex and grid layout methods, and `em` values, in order for it to work and resize appropriatedly.
-It is not exactly optimized for mobile, but any desktop window will do. I'll
-tweak it a little bit for mobile soon.
+It is not exactly optimized for mobile, but any desktop window will do.
+
+I used the `simplebar` library for OS-**in**dependent scrollbars. OS-dependent scrollbars
+usually cause inconsistencies in styling and experience, especially on mobile!
 
 ---
 
@@ -64,23 +69,26 @@ tweak it a little bit for mobile soon.
 
 React demo page with a Pivot Table component. The table receives linear data and 
 row/column dimension configuration. Suppports multiple dimensions.
-Aggreages data and sums sales.
+Aggreages data and sums sales. I did not use `simplebar` like on the previous example,
+so your mileage may vary when using different OS/browser/window and size combinations.
 
 <div class="demo-container">
     <iframe class="demo" src="https://teh0xqb.com/pivot-table" title="PivotTable" width="100%"></iframe>
 </div>
 
+<br />
+
 #### Details 
 
 This was a tricky undertaking for just demo purposes. I believe it is the most
 complex demo anyone has requested of me. The main three components:
-the common container that holds all the table body, the left panel (row dimensions)
+The common container that holds all the table body, the left panel (row dimensions)
 component, and the right panel (column dimensions + data) component. This effort was 
 definitely time-constrained, and I plan to update it (eg separate column 
-dimension from data component) as time allows.
+dimension from data component) as time allows. You'll notice the scrollbar breaks
+layout a little bit.
 
-#### TODO
-- Use an OS-independent scrolling mechanism. Same for most of my demos. 
+Run standalone application [here](https://teh0xqb.com/pivot-table){:target="_blank"}.
 
 ---
 
@@ -94,12 +102,17 @@ bundle the project.
     <iframe class="demo" src="https://teh0xqb.com/c-ring" title="OpsRing" width="100%"></iframe>
 </div>
 
+<br />
+
 #### The idea is
 
-given many tokens from 0 to a very big number, assign the node (circle)
+Given many tokens from 0 to a very big number, assign the node (circle)
 into the Cassandra ring view. Given that the `bigint` type was not yet introduced,
 I used a library that implemented big numbers, since the tokens represented by the rings
 were larger than what javascript could safely represent.
+
+Run standalone application [here](https://teh0xqb.com/c-ring){:target="_blank"}.
+See source code [here](https://github.com/teh0xqb/c-ring){:target="_blank"}.
 
 ---
 
@@ -110,6 +123,8 @@ Includes the simplest validation mechanism with React using the HTML Constraint 
 <div class="demo-container">
     <iframe class="demo" src="https://teh0xqb.com:446" title="Registration UI" width="100%"></iframe>
 </div>
+
+<br />
 
 #### Notes
 
@@ -141,13 +156,15 @@ The code is most likely not great. I was still a young Padawan.
 
 ### Meet the ClojureScript + Material-UI Demo App
 
-Utilizes cljs-http to use core.async channels for http calls. Uses [material-ui](https://v4-9-14.material-ui.com/)
+Utilizes cljs-http to use core.async channels for http calls. Uses [material-ui](https://v4-9-14.material-ui.com/){:target="_blank"}
 components, although this wasn't exactly necessary. I wanted to test npm libraries
 within the clojurescript ecosystem.
 
 <div class="demo-container">
     <iframe class="demo" src="https://teh0xqb.com/trials" title="Trials cljs UI" width="100%"></iframe>
 </div>
+
+<br />
 
 #### This is a simpler one
 
