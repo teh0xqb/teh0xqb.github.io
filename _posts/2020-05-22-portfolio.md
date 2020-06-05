@@ -144,7 +144,7 @@ forms are not red if they are bad, but green if they are A-Ok.
 
 Of course, on a production project the user should be able to receive information
 on what the requirement is in order to fill the field correctly, without having to wait
-for submites or color hints. Out of scope for this demo.
+for submit or color hints. Out of scope for this demo.
 
 The theme for colors and gradient were just taken from a the company theme that
 asked me to build this demo.
