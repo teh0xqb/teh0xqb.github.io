@@ -195,5 +195,5 @@ are not fair in this context, I know. This post won't deep dive on how these
 statements are true, but there are some good blogs out there that already explain
 why the Clojure/Script combo (and Reagent!) are incredible technologies. Google it!
 
-Run standalone [here](https://teh0xqb.com/trials). Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
+Run standalone [here](https://teh0xqb.com/trials){:target="_blank"}. Source [here](https://github.com/teh0xqb/re-trials){:target="_blank"}.
 
