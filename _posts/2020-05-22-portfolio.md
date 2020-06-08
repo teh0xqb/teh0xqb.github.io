@@ -94,10 +94,10 @@ Run standalone application [here](https://teh0xqb.com/pivot-table){:target="_bla
 
 ---
 
-### Meet the OpsRing
+### Meet the Cassandra Ring
 
 I built this in 2015, and did not use any framework or view library.
-Not even jQuery! Just javascript, D3js, and webpack in order to bundle the project.
+Not even jQuery! Just javascript, `D3js`, and `webpack` in order to bundle the project.
 
 <div class="demo-container">
     <iframe class="demo" src="https://teh0xqb.com/c-ring" title="OpsRing" width="100%"></iframe>
@@ -128,14 +128,15 @@ Includes the simplest validation mechanism with React using the HTML Constraint 
 
 #### Notes
 
-This is a really simple react-backed registration form. It does what it needs to do:
+This is a simple react registration form. It does what it needs to do:
 It contains controlled input elements, validates on submit using the HTML Contraint API,
 and either shows the errors or navigates to a success page. I did not include labels
 nor fancy animations to move placeholders as form input labels, but with more time
 that was certainly possible.
 
 You'll notice that this time around I decided to provide positive reinforcement on pre-submit form field validation. That is,
-forms are not red if they are bad, but green if they are A-Ok.
+forms are not red if they are bad, but green if they are A-Ok. This also utilizies
+`react-router-dom` to history navigation.
 
 Run standalone [here](https://teh0xqb.com:446){:target="_blank"}.
 Source [here](https://github.com/teh0xqb/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
