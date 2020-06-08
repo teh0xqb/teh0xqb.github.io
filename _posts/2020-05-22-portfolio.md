@@ -136,7 +136,7 @@ that was certainly possible.
 
 You'll notice that this time around I decided to provide positive reinforcement on pre-submit form field validation. That is,
 forms are not red if they are bad, but green if they are A-Ok. This also utilizies
-`react-router-dom` to history navigation.
+`react-router-dom` for history-enabled navigation (think back button, url routing).
 
 Run standalone [here](https://teh0xqb.com:446){:target="_blank"}.
 Source [here](https://github.com/teh0xqb/availity-review/blob/master/registration-ui/src/Register.js){:target="_blank"}.
